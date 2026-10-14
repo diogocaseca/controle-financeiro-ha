@@ -1,0 +1,6 @@
+configuration:
+  exigir_login:
+    name: Exigir login
+    description: Pede o usuário e a senha do app mesmo quando aberto pelo menu do Home Assistant. O acesso direto pela porta sempre pede login.
+network:
+  8099/tcp: Interface web (acesso direto, sem passar pelo Home Assistant)

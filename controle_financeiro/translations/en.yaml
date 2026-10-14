@@ -1,0 +1,6 @@
+configuration:
+  exigir_login:
+    name: Require login
+    description: Ask for the app's own username and password even when opened from the Home Assistant menu. Direct access through the port always requires login.
+network:
+  8099/tcp: Web interface (direct access, bypassing Home Assistant)

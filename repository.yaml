@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/apps/repository#repository-configuration
+name: Controle Financeiro
+url: "https://github.com/diogocaseca/controle-financeiro"
+maintainer: Diogo Caseca

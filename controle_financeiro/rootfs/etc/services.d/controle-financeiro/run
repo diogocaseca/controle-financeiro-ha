@@ -1,0 +1,21 @@
+#!/usr/bin/with-contenv bashio
+# ==============================================================================
+# Inicia o Controle Financeiro (atrás do Ingress do Home Assistant)
+# ==============================================================================
+
+# /data é persistente e entra nos backups do Home Assistant.
+export CF_DATA_DIR=/data
+export CF_HOST=0.0.0.0
+export CF_PORT=8099
+
+# Pelo menu do HA o usuário já está autenticado; o login do app só é pedido se
+# "exigir_login" estiver ligado. O acesso direto pela porta sempre pede login.
+# Lê /data/options.json (gravado pelo Supervisor) em vez de consultar a API.
+if [[ "$(jq -r '.exigir_login // false' /data/options.json 2>/dev/null)" == "true" ]]; then
+  export CF_LOGIN_VIA_INGRESS=1
+else
+  export CF_LOGIN_VIA_INGRESS=0
+fi
+
+bashio::log.info "Iniciando Controle Financeiro..."
+exec /opt/venv/bin/controle-financeiro
