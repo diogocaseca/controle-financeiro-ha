@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+- Parcelas: o valor não pode mais ser alterado mês a mês; muda só editando a compra.
+
 ## 0.4.0
 
 - Trava da fatura do cartão: informe o dia de fechamento em Contas ("Fecha dia") e
