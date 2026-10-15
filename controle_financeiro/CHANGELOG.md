@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.9
+
+- Fixos: o "valor lançado no controle" é preenchido com o sinal invertido
+  (ex.: -609,92/2 → 304,96).
+
 ## 0.1.8
 
 - Verbas: gasto no cartão acima da verba vira entrada. Uma verba de valor 0
