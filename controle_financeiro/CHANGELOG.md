@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.8
+
+- Verbas: gasto no cartão acima da verba vira entrada. Uma verba de valor 0
+  funciona como reembolso (ex.: assinaturas da empresa pagas no cartão).
+
 ## 0.1.7
 
 - Contas: opção "Marcação ✓" para ligar/desligar a marcação de confirmado por conta.
