@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0
+
+- Backups: automático diário (mantém os 30 mais recentes), backup manual,
+  download e restauração pela nova tela **Backups**. Antes de restaurar, o estado
+  atual é guardado para poder desfazer.
+
 ## 0.2.4
 
 - Fixos: botão para esconder/mostrar os fixos encerrados (lembrado no navegador).

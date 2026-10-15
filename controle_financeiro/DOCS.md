@@ -19,6 +19,11 @@ ligue antes **Exigir login** uma vez e troque a senha padrão.
 Os dados ficam na pasta `/data` do app (`financas.db`). Ela entra nos backups do
 Home Assistant automaticamente.
 
+O próprio app também faz um backup por dia em `/data/backups` (ficam os 30 mais
+recentes). Na tela **Backups** dá para fazer um backup na hora, baixar qualquer
+um e restaurar. Antes de restaurar, o estado atual é guardado como
+“Antes de restaurar”, para poder desfazer.
+
 Para trazer um banco que você já usava no computador, restaure um backup do app
 contendo o arquivo, ou peça ajuda para criar uma rotina de importação (ainda não
 existe pela interface).
