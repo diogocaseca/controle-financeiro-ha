@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.3
+
+- Marcação ✓ de confirmado em lançamentos e faturas (o "verde" da planilha),
+  com total do que ainda falta confirmar no mês.
+- O banco existente é atualizado automaticamente ao iniciar.
+
 ## 0.1.2
 
 - Botão ✎ para editar qualquer registro: lançamentos do mês, fixos, parcelados,
