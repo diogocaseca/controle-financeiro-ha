@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.2
+
+- Parcelas: sem botões de editar/excluir no mês; qualquer alteração é feita na compra,
+  em Parcelados (o nome da parcela leva até ela).
+
 ## 0.4.1
 
 - Parcelas: o valor não pode mais ser alterado mês a mês; muda só editando a compra.
