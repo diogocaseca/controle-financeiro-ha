@@ -20,7 +20,7 @@ Os dados ficam na pasta `/data` do app (`financas.db`). Ela entra nos backups do
 Home Assistant automaticamente.
 
 O próprio app também faz um backup por dia em `/data/backups` (ficam os 30 mais
-recentes). Na tela **Backups** dá para fazer um backup na hora, baixar qualquer
+recentes; a quantidade pode ser mudada na própria tela). Na tela **Backups** dá para fazer um backup na hora, baixar qualquer
 um e restaurar. Antes de restaurar, o estado atual é guardado como
 “Antes de restaurar”, para poder desfazer.
 

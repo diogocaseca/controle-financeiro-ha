@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1
+
+- Backups: quantidade de backups automáticos guardados configurável na tela Backups.
+
 ## 0.3.0
 
 - Backups: automático diário (mantém os 30 mais recentes), backup manual,
