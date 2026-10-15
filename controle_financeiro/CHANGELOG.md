@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0
+
+- Parcelados: escolha uma verba (ex.: Limpeza) e o valor descontado dela por
+  parcela, preenchido com o valor da parcela de sinal invertido (editável).
+- Lançamentos do cartão: valor aplicado na verba pode ser diferente do valor da compra.
+- O banco existente é atualizado automaticamente ao iniciar.
+
 ## 0.1.9
 
 - Fixos: o "valor lançado no controle" é preenchido com o sinal invertido
