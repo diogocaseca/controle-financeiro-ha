@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+- Fixos: opção de excluir (apaga o fixo e tudo o que ele lançou em todos os meses).
+
 ## 0.2.0
 
 - Parcelados: escolha uma verba (ex.: Limpeza) e o valor descontado dela por
