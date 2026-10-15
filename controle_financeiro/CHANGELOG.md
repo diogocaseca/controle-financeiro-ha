@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0
+
+- Trava da fatura do cartão: informe o dia de fechamento em Contas ("Fecha dia") e
+  a fatura do mês trava sozinha nesse dia, evitando lançar no mês errado. No mês,
+  dá para travar manualmente ou destravar até o fim do dia para corrigir.
+- O banco existente é atualizado automaticamente ao iniciar.
+
 ## 0.3.2
 
 - Backups: botão "Restaurar de um arquivo…" para restaurar um backup (.db) baixado
