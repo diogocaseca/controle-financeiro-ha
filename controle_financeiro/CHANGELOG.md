@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4
+
+- Fixos: ao escolher um controle, o "valor lançado no controle" é preenchido
+  com o valor do fixo de sinal invertido (editável).
+
 ## 0.1.3
 
 - Marcação ✓ de confirmado em lançamentos e faturas (o "verde" da planilha),
