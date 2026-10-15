@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.6
+
+- Fixos: o "valor lançado no controle" recebe o resultado calculado do valor,
+  com o mesmo sinal (ex.: -609,92/2 → -304,96), e é atualizado sempre que o valor muda.
+
 ## 0.1.5
 
 - Corrige o botão ✓ aparecendo como um quadrado sem estilo: o navegador usava o
