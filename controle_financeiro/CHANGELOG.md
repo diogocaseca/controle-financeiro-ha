@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.2
+
+- Resumo anual: meses ainda não abertos mostram o saldo previsto (fixos, parcelas
+  e lançamentos já feitos), sem precisar visitar cada mês.
+
 ## 0.2.1
 
 - Fixos: opção de excluir (apaga o fixo e tudo o que ele lançou em todos os meses).
