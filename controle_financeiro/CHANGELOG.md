@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.4
+
+- Fixos: botão para esconder/mostrar os fixos encerrados (lembrado no navegador).
+
 ## 0.2.3
 
 - Parcelados: botão para esconder/mostrar as compras quitadas (lembrado no navegador).
