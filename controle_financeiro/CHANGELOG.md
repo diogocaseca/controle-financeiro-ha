@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3
+
+- Parcelados: botão para esconder/mostrar as compras quitadas (lembrado no navegador).
+
 ## 0.2.2
 
 - Resumo anual: meses ainda não abertos mostram o saldo previsto (fixos, parcelas
