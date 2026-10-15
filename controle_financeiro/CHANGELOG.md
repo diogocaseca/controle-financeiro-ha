@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.7
+
+- Contas: opção "Marcação ✓" para ligar/desligar a marcação de confirmado por conta.
+
 ## 0.1.6
 
 - Fixos: o "valor lançado no controle" recebe o resultado calculado do valor,
