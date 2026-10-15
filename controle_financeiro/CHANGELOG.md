@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.2
+
+- Backups: botão "Restaurar de um arquivo…" para restaurar um backup (.db) baixado
+  desta ou de outra instalação. O arquivo é validado antes e fica na lista como "Importado".
+- Backups gravados como arquivo único, sem arquivos -wal/-shm soltos na pasta.
+
 ## 0.3.1
 
 - Backups: quantidade de backups automáticos guardados configurável na tela Backups.

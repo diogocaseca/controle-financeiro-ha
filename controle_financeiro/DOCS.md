@@ -24,9 +24,9 @@ recentes; a quantidade pode ser mudada na própria tela). Na tela **Backups** d�
 um e restaurar. Antes de restaurar, o estado atual é guardado como
 “Antes de restaurar”, para poder desfazer.
 
-Para trazer um banco que você já usava no computador, restaure um backup do app
-contendo o arquivo, ou peça ajuda para criar uma rotina de importação (ainda não
-existe pela interface).
+Para trazer os dados de outra instalação (por exemplo, do computador para o HA),
+baixe um backup lá e use **Restaurar de um arquivo…** aqui. Usuário e senha
+passam a ser os da instalação de origem.
 
 ## Acesso direto
 
