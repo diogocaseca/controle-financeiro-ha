@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.5
+
+- Corrige o botão ✓ aparecendo como um quadrado sem estilo: o navegador usava o
+  CSS antigo em cache. O endereço do CSS agora muda a cada versão.
+
 ## 0.1.4
 
 - Fixos: ao escolher um controle, o "valor lançado no controle" é preenchido
