@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.8
+
+- Fixos: campo "Ordem no mês". Nas tabelas do mês os fixos ficam no topo nessa ordem,
+  com os demais lançamentos abaixo.
+
 ## 0.4.7
 
 - Contas: formulário de nova conta acima da lista.
