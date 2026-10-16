@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.6
+
+- Fixos, Parcelados e Dívidas & poupanças: formulário de inserção acima da tabela.
+
 ## 0.4.5
 
 - Ano: mesma barra de navegação do mês (fixa embaixo, com "Agora" e seletor de ano).
