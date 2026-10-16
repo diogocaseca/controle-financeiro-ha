@@ -4,7 +4,7 @@ FROM ghcr.io/home-assistant/base:3.23
 # Commit do repositório do programa que esta versão do app instala.
 # Para atualizar: troque o commit, suba "version" no config.yaml e registre no CHANGELOG.
 ARG APP_REPO=https://github.com/diogocaseca/controle-financeiro
-ARG APP_COMMIT=bb10b634b7369eea6a2411f00e48a166d5b137f4
+ARG APP_COMMIT=24f2e90d03f8af66fbbcf75377d52ff8ca6853b8
 
 RUN \
     apk add --no-cache python3 tzdata \

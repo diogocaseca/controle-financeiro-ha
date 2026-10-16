@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.7
+
+- Contas: formulário de nova conta acima da lista.
+
 ## 0.4.6
 
 - Fixos, Parcelados e Dívidas & poupanças: formulário de inserção acima da tabela.
