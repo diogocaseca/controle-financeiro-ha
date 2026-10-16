@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.5
+
+- Ano: mesma barra de navegação do mês (fixa embaixo, com "Agora" e seletor de ano).
+
 ## 0.4.4
 
 - Mês: a barra de navegação fica fixa e centralizada na parte de baixo da tela, como no HA.
