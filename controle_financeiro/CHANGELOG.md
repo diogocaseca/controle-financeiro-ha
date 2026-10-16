@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.4
+
+- Mês: a barra de navegação fica fixa e centralizada na parte de baixo da tela, como no HA.
+
 ## 0.4.3
 
 - Mês: nova barra de navegação no estilo do Home Assistant (calendário, "Agora",
