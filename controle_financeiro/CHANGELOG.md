@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.3
+
+- Mês: nova barra de navegação no estilo do Home Assistant (calendário, "Agora",
+  anterior/próximo e menu ⋮), fixa no topo ao rolar.
+
 ## 0.4.2
 
 - Parcelas: sem botões de editar/excluir no mês; qualquer alteração é feita na compra,
