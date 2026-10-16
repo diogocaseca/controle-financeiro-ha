@@ -23,3 +23,7 @@ como app (antigo “add-on”) do Home Assistant, com acesso pelo menu lateral v
 ```bash
 docker build -t controle-financeiro-ha controle_financeiro
 ```
+
+## Licença
+
+[MIT](LICENSE) © 2026 Diogo Caseca
