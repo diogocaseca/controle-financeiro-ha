@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.9
+
+- Fixos: editar não sobrescreve mais os valores dos meses. Para mudar o valor,
+  marque "Alterar o valor" na edição (os campos de valor só se habilitam assim).
+
 ## 0.4.8
 
 - Fixos: campo "Ordem no mês". Nas tabelas do mês os fixos ficam no topo nessa ordem,
