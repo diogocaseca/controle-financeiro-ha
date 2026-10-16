@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.10
+
+- Textos de ajuda dos campos agora aparecem numa dica (ⓘ) ao lado do nome do campo,
+  economizando espaço na tela.
+
 ## 0.4.9
 
 - Fixos: editar não sobrescreve mais os valores dos meses. Para mudar o valor,
