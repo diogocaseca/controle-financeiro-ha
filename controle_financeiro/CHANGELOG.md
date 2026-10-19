@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.11
+
+- Mês: clicar numa verba (ex.: Limpeza) destaca ela e todos os gastos que descontam dela.
+
 ## 0.4.10
 
 - Textos de ajuda dos campos agora aparecem numa dica (ⓘ) ao lado do nome do campo,
