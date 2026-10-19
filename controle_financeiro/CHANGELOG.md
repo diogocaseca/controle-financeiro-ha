@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.12
+
+- Verbas de reembolso (valor 0): detalhes sem o "a receber".
+
 ## 0.4.11
 
 - Mês: clicar numa verba (ex.: Limpeza) destaca ela e todos os gastos que descontam dela.

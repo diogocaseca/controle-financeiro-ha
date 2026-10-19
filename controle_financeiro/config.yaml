@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/apps/configuration#app-configuration
 name: Controle Financeiro
-version: "0.4.11"
+version: "0.4.12"
 slug: controle_financeiro
 description: Controle financeiro pessoal — contas fixas, cartão, parcelados e dívidas.
 url: "https://github.com/diogocaseca/controle-financeiro"
