@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.13
+
+- Editar no mês um fixo que lança numa dívida/poupança agora atualiza também o
+  movimento daquele mês (campo "Valor lançado no controle" na edição).
+
 ## 0.4.12
 
 - Verbas de reembolso (valor 0): detalhes sem o "a receber".
