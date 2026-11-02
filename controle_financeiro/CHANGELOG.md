@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.14
+
+- Parcelados: o mês de referência de uma compra nova vem preenchido com o mês seguinte ao atual.
+
 ## 0.4.13
 
 - Editar no mês um fixo que lança numa dívida/poupança agora atualiza também o
